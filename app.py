@@ -23,7 +23,9 @@ import cv2
 import mediapipe as mp
 import numpy as np
 
+# Flask application for Sign Language Recognition Website
 app = Flask(__name__)
+
 
 CORS(app)  # Allow cross-origin requests for all routes
 
