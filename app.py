@@ -1,4 +1,5 @@
-# I am using mediapipe as a hand landmark processing and prediction and landmark detector and a Random Forest classifier as sign classifier.
+# Sign Language Recognition Website
+# Developed by Ashi Sengar
 
 
 from socket import SocketIO
